@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: dodgerblue;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}

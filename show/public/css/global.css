@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: dodgerblue;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.nav-item .logout {   
+    font-weight: bold !important;
+    color: red !important;
+
+}
+ .nav-item .logout:hover {
+    color: rgb(0, 217, 255) !important;
+    font-weight: bold !important;
+}
